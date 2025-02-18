@@ -1,4 +1,4 @@
-baseURL = "https://shivam.n3y.in/"
+baseURL = "https://shivamatwork16.github.io/"
 languageCode = "en-in"
 title = "Shiavm's Work Diary"
 theme = "github-style"
@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 #   instagram = "MeiK2333"
 #   tumblr = "MeiK2333"
   email = "shivamatwork16@gmail.com"
-  url = "https://shivam.n3y.in"
+  url = "https://shivamatwork16.github.io/"
   keywords = "blog, diary"
 #   rss = true
   lastmod = true
