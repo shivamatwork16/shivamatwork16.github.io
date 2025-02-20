@@ -1,8 +1,3 @@
-+++
-date = '2025-02-18T18:17:37+05:30'
-draft = true
-title = 'Readme'
-+++
 # 🚀 My Developer Progress Journal  
 
 Welcome to my **Developer Progress Journal** – a space where I track my daily achievements, challenges, and learning experiences. This project is deployed at **[shivam.n3y.in](https://shivam.n3y.in)** and follows a **GitHub-style streak system** to keep me accountable and motivated.  
