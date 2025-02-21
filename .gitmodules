@@ -2,3 +2,6 @@
 	path = public2
 	url = https://github.com/shivamatwork16/shivamatwork16.github.io
 	branch = github-pages
+[submodule "shivamatwork16.github.io"]
+	path = shivamatwork16.github.io
+	url = git@github.com:shivamatwork16/shivamatwork16.github.io.git

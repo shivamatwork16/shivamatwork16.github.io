@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shivam work diary</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Shivam work diary</description>
+    <generator>Hugo</generator>
+    <language>en-in</language>
+    <lastBuildDate>Tue, 18 Feb 2025 20:41:31 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Tue, 18 Feb 2025 20:41:31 +0530</pubDate>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DSR</title>
+      <link>http://localhost:1313/tags/dsr/</link>
+      <pubDate>Tue, 18 Feb 2025 18:18:30 +0530</pubDate>
+      <guid>http://localhost:1313/tags/dsr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JC</title>
+      <link>http://localhost:1313/tags/jc/</link>
+      <pubDate>Tue, 18 Feb 2025 18:18:30 +0530</pubDate>
+      <guid>http://localhost:1313/tags/jc/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

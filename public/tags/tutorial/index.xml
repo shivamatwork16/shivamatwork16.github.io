@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Shivam work diary</title>
+    <link>http://localhost:1313/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Shivam work diary</description>
+    <generator>Hugo</generator>
+    <language>en-in</language>
+    <lastBuildDate>Tue, 18 Feb 2025 20:41:31 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to set up this for you</title>
+      <link>http://localhost:1313/post/tutorial/</link>
+      <pubDate>Tue, 18 Feb 2025 20:41:31 +0530</pubDate>
+      <guid>http://localhost:1313/post/tutorial/</guid>
+      <description>&lt;h3 id=&#34;how-to-set-up-your-own&#34;&gt;How to set up your own&lt;/h3&gt;&#xA;&lt;p&gt;here are simple steps to setup for your own this how would you do&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
