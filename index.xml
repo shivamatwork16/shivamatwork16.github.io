@@ -6,8 +6,22 @@
     <description>Recent content on Shivam work diary</description>
     <generator>Hugo</generator>
     <language>en-in</language>
-    <lastBuildDate>Tue, 18 Feb 2025 20:41:31 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 10:58:17 +0530</lastBuildDate>
     <atom:link href="https://shivamatwork16.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Survey Test</title>
+      <link>https://shivamatwork16.github.io/post/survey-test/</link>
+      <pubDate>Fri, 21 Feb 2025 10:58:17 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/survey-test/</guid>
+      <description>&lt;h1 id=&#34;survey-api---readme&#34;&gt;Survey API - README&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Survey_Initial Thoughts</title>
+      <link>https://shivamatwork16.github.io/post/survey_initial/</link>
+      <pubDate>Wed, 19 Feb 2025 12:26:15 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/survey_initial/</guid>
+      <description>&lt;h1 id=&#34;survey-api-with-express-and-mongodb&#34;&gt;Survey API with Express and MongoDB&lt;/h1&gt;&#xA;&lt;p&gt;This project implements a backend API for creating and managing surveys using Express.js and MongoDB.  It allows users to define questions, create surveys with conditional logic, and retrieve surveys for completion.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How to set up this for you</title>
       <link>https://shivamatwork16.github.io/post/tutorial/</link>
