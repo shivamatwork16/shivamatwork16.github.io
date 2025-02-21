@@ -4,6 +4,7 @@ title = "Shiavm's Work Diary"
 theme = "github-style"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+tags = ["progress", "diary"]
 
 [params]
   author = "Shivam Shukla"
