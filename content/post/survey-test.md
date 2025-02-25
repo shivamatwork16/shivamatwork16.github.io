@@ -7,7 +7,6 @@ pin = true
 
 # Survey API - Testing Instructions
 <!--more-->
-
 This README provides instructions on how to test the Survey API endpoints.  The API allows users to create, update, and retrieve surveys, including support for conditional questions.
 
 ## Base URL
@@ -33,11 +32,11 @@ Creates a new survey.
 ```json
 {
   "title": "Survey Title",
-  "type": "nps", // "nps", "other", or "email"
+  "type": "nps", //nps or other
   "questions": [
     {
       "question": "Question 1 Text",
-      "type": "rating", // "text", "rating", etc.
+      "type": "rating",
       "options": ["1", "2", "3", "4", "5"], // Optional for some question types
       "isSkip": false, // Optional
       "conditional_logic": { // Optional

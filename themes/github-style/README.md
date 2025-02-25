@@ -289,7 +289,3 @@ cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)
 ```
 
 Then you can verify the site is working and use `git push --all` to push the change to github. If you don't want to check again every time, you can uncomment the `#git push --all` in the script.
-
-## TODO
-
-- 重写标题导航，那玩意儿引入的 JS 在控制台报错。
