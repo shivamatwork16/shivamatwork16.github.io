@@ -6,20 +6,62 @@
     <description>Recent content in Tags on Shivam work diary</description>
     <generator>Hugo</generator>
     <language>en-in</language>
-    <lastBuildDate>Mon, 24 Feb 2025 18:18:30 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 18:18:30 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>API</title>
       <link>http://localhost:1313/tags/api/</link>
-      <pubDate>Mon, 24 Feb 2025 18:18:30 +0530</pubDate>
+      <pubDate>Wed, 26 Feb 2025 18:18:30 +0530</pubDate>
       <guid>http://localhost:1313/tags/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BugFix</title>
+      <link>http://localhost:1313/tags/bugfix/</link>
+      <pubDate>Wed, 26 Feb 2025 18:18:30 +0530</pubDate>
+      <guid>http://localhost:1313/tags/bugfix/</guid>
       <description></description>
     </item>
     <item>
       <title>DSR</title>
       <link>http://localhost:1313/tags/dsr/</link>
-      <pubDate>Mon, 24 Feb 2025 18:18:30 +0530</pubDate>
+      <pubDate>Wed, 26 Feb 2025 18:18:30 +0530</pubDate>
       <guid>http://localhost:1313/tags/dsr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Email</title>
+      <link>http://localhost:1313/tags/email/</link>
+      <pubDate>Wed, 26 Feb 2025 18:18:30 +0530</pubDate>
+      <guid>http://localhost:1313/tags/email/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JC</title>
+      <link>http://localhost:1313/tags/jc/</link>
+      <pubDate>Wed, 26 Feb 2025 18:18:30 +0530</pubDate>
+      <guid>http://localhost:1313/tags/jc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stats</title>
+      <link>http://localhost:1313/tags/stats/</link>
+      <pubDate>Wed, 26 Feb 2025 18:18:30 +0530</pubDate>
+      <guid>http://localhost:1313/tags/stats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Survey</title>
+      <link>http://localhost:1313/tags/survey/</link>
+      <pubDate>Wed, 26 Feb 2025 18:18:30 +0530</pubDate>
+      <guid>http://localhost:1313/tags/survey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UserAgent</title>
+      <link>http://localhost:1313/tags/useragent/</link>
+      <pubDate>Tue, 25 Feb 2025 18:18:30 +0530</pubDate>
+      <guid>http://localhost:1313/tags/useragent/</guid>
       <description></description>
     </item>
     <item>
@@ -27,13 +69,6 @@
       <link>http://localhost:1313/tags/frontend/</link>
       <pubDate>Mon, 24 Feb 2025 18:18:30 +0530</pubDate>
       <guid>http://localhost:1313/tags/frontend/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JC</title>
-      <link>http://localhost:1313/tags/jc/</link>
-      <pubDate>Mon, 24 Feb 2025 18:18:30 +0530</pubDate>
-      <guid>http://localhost:1313/tags/jc/</guid>
       <description></description>
     </item>
     <item>

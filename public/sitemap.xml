@@ -9,10 +9,37 @@
     <lastmod>2025-02-28T16:49:12+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/api/</loc>
-    <lastmod>2025-02-24T18:18:30+05:30</lastmod>
+    <lastmod>2025-02-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bugfix/</loc>
+    <lastmod>2025-02-26T18:18:30+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dsr/</loc>
-    <lastmod>2025-02-24T18:18:30+05:30</lastmod>
+    <lastmod>2025-02-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/email/</loc>
+    <lastmod>2025-02-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/jc/feb/feb_26_2025/</loc>
+    <lastmod>2025-02-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jc/</loc>
+    <lastmod>2025-02-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stats/</loc>
+    <lastmod>2025-02-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/survey/</loc>
+    <lastmod>2025-02-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/jc/feb/feb_25_2025/</loc>
+    <lastmod>2025-02-25T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/useragent/</loc>
+    <lastmod>2025-02-25T18:18:30+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/jc/feb/feb_24_2025/</loc>
     <lastmod>2025-02-24T18:18:30+05:30</lastmod>
@@ -20,13 +47,7 @@
     <loc>http://localhost:1313/tags/frontend/</loc>
     <lastmod>2025-02-24T18:18:30+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jc/</loc>
-    <lastmod>2025-02-24T18:18:30+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/model/</loc>
-    <lastmod>2025-02-24T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-24T18:18:30+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/testing/</loc>
