@@ -1,5 +1,3 @@
-<p><a target="_blank" href="https://app.eraser.io/workspace/QZoQvOdOCBE9sX4awMOC" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
-
 +++
 date = '2025-03-01T15:07:13+05:30'
 draft = false
@@ -8,13 +6,14 @@ pin = true
 +++
 
 ## Dazhboard contributions
+<!--more-->
 I have gone through a lot of code in the dazhboard and implemented real functionality as well as removed bugs from it.
 
 
 
-my notable additions in the dazhboard are Survey Review API -> complete end to end implementation with closely working with the front end team designed, developed & tested the complete functionality according to the clients requirement 
+my notable additions in the dazhboard are Survey Review API -> complete end to end implementation with closely working with the front end team designed, developed & tested the complete functionality according to the clients requirement
 
-1. support for multiple types of questions , 
+1. support for multiple types of questions ,
 2. support for conditional question with potential of unlimited condition and unlimited nested condition functionality
 3. complete crud( create, read, update, and delete ) works flawlessly
 
@@ -57,7 +56,7 @@ e2a00db: SurveyQuestionModel add more fields
 ```
 Review Invite email API - removed several bugs [ a lot of them ] from the review invite email API.
 
-SMTP was completely broken debugged it read through 5k lines of code, the code base is quite overwhelming to understand and grasp but took the challenge and fixed the smtp which was the bottleneck for actual review invite email API now i understand the complete flow for this. 
+SMTP was completely broken debugged it read through 5k lines of code, the code base is quite overwhelming to understand and grasp but took the challenge and fixed the smtp which was the bottleneck for actual review invite email API now i understand the complete flow for this.
 
 
 
@@ -108,8 +107,3 @@ c40d065: Sender name fallback values
 ```
 b9f156d: Review Link posId error removed
 ```
-
-
-
-
-<!--- Eraser file: https://app.eraser.io/workspace/QZoQvOdOCBE9sX4awMOC --->
