@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="en-in">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='https://shivamatwork16.github.io/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://shivamatwork16.github.io/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://shivamatwork16.github.io/css/github.min.css' />
+    <link rel="stylesheet" href='https://shivamatwork16.github.io/css/github-style.css' />
+    <link rel="stylesheet" href='https://shivamatwork16.github.io/css/light.css' />
+    <link rel="stylesheet" href='https://shivamatwork16.github.io/css/dark.css' />
+    <link rel="stylesheet" href='https://shivamatwork16.github.io/css/syntax.css' />
+    <title>Instagram API with Instagram Login - Shivam work diary</title>
+    
+    <link rel="icon" type="image/x-icon" href='https://static.20032003.xyz/shivam.webp'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+    
+    
+
+    
+    <meta name="description"
+  content="Information about the instagram api started working for this at march 5 , 17: 05 to find out more about how it all works
+" />
+<meta name="keywords"
+  content='blog, diary' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://shivamatwork16.github.io/post/jc/instagram/readme/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Instagram API with Instagram Login - Shivam work diary" />
+<meta name="twitter:description"
+  content="Information about the instagram api started working for this at march 5 , 17: 05 to find out more about how it all works
+" />
+<meta name="twitter:site" content="https://shivamatwork16.github.io/" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image"
+  content="https://shivamatwork16.github.io/">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Instagram API with Instagram Login - Shivam work diary">
+<meta property="og:description"
+  content="Information about the instagram api started working for this at march 5 , 17: 05 to find out more about how it all works
+" />
+<meta property="og:url" content="https://shivamatwork16.github.io/post/jc/instagram/readme/" />
+<meta property="og:site_name" content="Instagram API with Instagram Login" />
+<meta property="og:image"
+  content="https://shivamatwork16.github.io/">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2025-03-05 17:04:24 &#43;0530 IST" />
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="https://shivamatwork16.github.io/">
+        <img class="octicon" height="32" width="32" src="/images/github-mark-white.png">
+      </a>
+    </div>
+    <div class="Header-item d-md-none">
+      <button class="Header-link btn-link js-details-target" type="button"
+        onclick="document.querySelector('#header-search').style.display = document.querySelector('#header-search').style.display == 'none'? 'block': 'none'">
+        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24">
+          <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z">
+          </path>
+        </svg>
+      </button>
+    </div>
+    <div style="display: none;" id="header-search"
+      class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+      <div
+        class="Header-search header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to">
+        <div class="position-relative">
+          
+          <form target="_blank" id="search-form" action="" accept-charset="UTF-8" method="get"
+            autocomplete="off">
+            <label
+              class="Header-search-label form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+              <input type="text"
+                class="Header-search-input form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+                name="q" value="" placeholder="Search" autocomplete="off">
+            </label>
+          </form>
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="https://shivamatwork16.github.io/">
+        <img class="octicon octicon-mark-github v-align-middle" height="32" width="32" src="/images/github-mark-white.png">
+      </a>
+    </div>
+    <div class="Header-item" style="margin-right: 0;">
+      <a href="javascript:void(0)" class="Header-link no-select" onclick="switchTheme()">
+        <svg style="fill: var(--color-profile-color-modes-toggle-moon);" class="no-select" viewBox="0 0 16 16"
+          version="1.1" width="16" height="16">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z">
+          </path>
+        </svg>
+      </a>
+    </div>
+  </header>
+</div>
+
+  <div id="search-result" class="container-lg px-3 new-discussion-timeline" style="display: none;">
+</div>
+
+  
+<div class="application-main">
+  <div>
+  <main>
+    <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="px-0">
+        <div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+          <div class="flex-auto min-width-0 width-fit mr-3">
+            <div class="d-flex">
+              <div class="d-none d-md-block">
+                <a class="avatar mr-2 flex-shrink-0" href="https://shivamatwork16.github.io/">
+                  <img class=" avatar-user"
+                    src="https://static.20032003.xyz/shivam.webp"
+                    width="32" height="32"></a>
+              </div>
+              <div class="d-flex flex-column">
+                <h1 class="break-word f3 text-normal mb-md-0 mb-1">
+                  <span class="author">
+                    <a href="https://shivamatwork16.github.io/">Shivam Shukla</a>
+                  </span>
+                  <span class="path-divider">/</span>
+                  <strong class="css-truncate css-truncate-target mr-1" style="max-width: 410px">
+                    <a href="https://shivamatwork16.github.io/post/jc/instagram/readme/">Instagram API with Instagram Login</a>
+                  </strong>
+                </h1>
+                <div class="note m-0">
+                  Created <relative-time datetime="Wed, 05 Mar 2025 17:04:24 &#43;0530"
+                    class="no-wrap">
+                    Wed, 05 Mar 2025 17:04:24 &#43;0530</relative-time>
+
+                  
+                  <span class="file-info-divider"></span>
+                  Modified <relative-time datetime="Wed, 05 Mar 2025 17:04:24 &#43;0530"
+                    class="no-wrap">
+                    Wed, 05 Mar 2025 17:04:24 &#43;0530</relative-time>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-lg px-3 new-discussion-timeline">
+      <div class="repository-content gist-content">
+        <div>
+          <div class="js-gist-file-update-container js-task-list-container file-box">
+            <div id="file-pytest" class="file my-2">
+              <div id="post-header" class="file-header d-flex flex-md-items-center flex-items-start sticky-header" style="z-index: 2">
+                <div class="file-info d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+                  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+                    
+                    <summary id="toc-toggle" onclick="clickToc()" class="btn btn-octicon m-0 mr-2 p-2">
+                      <svg aria-hidden="true" viewBox="0 0 16 16" height="16" width="16" class="octicon octicon-list-unordered">
+                        <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
+                      </svg>
+                    </summary>
+                    <details-menu class="SelectMenu" id="toc-details" style="display: none;">
+                      <div class="SelectMenu-modal rounded-3 mt-1" style="max-height: 340px;">
+                        <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" id="toc-list">
+                        </div>
+                      </div>
+                    </details-menu>
+                      1948 Words
+                    
+
+                  </div>
+                  <div class="file-actions flex-order-2 pt-0">
+                    
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="Box-body px-5 pb-5" style="z-index: 1">
+                <article class="markdown-body entry-content container-lg"><h2 id="information-about-the-instagram-api">Information about the instagram api</h2>
+<p>started working for this at march 5 , 17: 05 to find out more about how it all works</p>
+<h3 id="instagram-api-with-instagram-login">Instagram API with Instagram Login</h3>
+<p>availbe For businesses to manage their presense on instagram</p>
+<p>The API can be used to:</p>
+<ul>
+<li>Comment moderation – Manage and reply to comments on their media</li>
+<li>Content publishing – Get and publish their media</li>
+<li>Media Insights - Get insights on their media</li>
+<li>Mentions – Identify media where they have been <code>@mentioned</code> by other Instagram users</li>
+<li>Messaging – Send and receive messages with customers or people interested in their Instagram account</li>
+</ul>
+<p>The above information sourced from: <a href="https://developers.facebook.com/docs/instagram-platform/instagram-api-with-instagram-login">Instagram API</a></p>
+<p>The Instagram Platform is a collection of APIs that allows your app to access data for Instagram professional accounts including both businesses and creators. You can build an app that only serves <code>your Instagram professional account</code>, or you can build an app that <code>serves other Instagram professional accounts</code> that you do not own or manage.</p>
+<h1 id="instagram-platform-api-integration-guide">Instagram Platform API Integration Guide</h1>
+<p>Welcome to the Instagram Platform API Integration Guide! This document provides a comprehensive overview of how to integrate Instagram&rsquo;s APIs into your application, enabling access to data for Instagram professional accounts, including businesses and creators. Whether you&rsquo;re building an app for your own Instagram professional account or for others, this guide will help you understand the necessary configurations, access levels, and features.</p>
+<h2 id="table-of-contents">Table of Contents</h2>
+<ol>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#api-configurations">API Configurations</a></li>
+<li><a href="#access-levels">Access Levels</a></li>
+<li><a href="#app-review">App Review</a></li>
+<li><a href="#app-users">App Users</a></li>
+<li><a href="#authentication-and-authorization">Authentication and Authorization</a></li>
+<li><a href="#features-and-permissions">Features and Permissions</a></li>
+</ol>
+<h2 id="introduction">Introduction</h2>
+<p>The Instagram Platform offers a suite of APIs that allow your application to interact with Instagram professional accounts. These APIs enable functionalities such as content publishing, comment moderation, messaging, and insights. Depending on your app&rsquo;s requirements, you can choose between two API configurations: one that uses Facebook Login for Business and another that uses Business Login for Instagram.</p>
+<h2 id="api-configurations">API Configurations</h2>
+<h3 id="instagram-api-with-facebook-login-for-business">Instagram API with Facebook Login for Business</h3>
+<ul>
+<li><strong>Use Case</strong>: Your app serves Instagram professional accounts linked to a Facebook Page.</li>
+<li><strong>Login Method</strong>: Users log in with their Facebook credentials.</li>
+<li><strong>Features</strong>: Comment moderation, content publishing, insights, messaging via Messenger Platform, and more.</li>
+</ul>
+<h3 id="instagram-api-with-business-login-for-instagram">Instagram API with Business Login for Instagram</h3>
+<ul>
+<li><strong>Use Case</strong>: Your app serves Instagram professional accounts with a presence on Instagram only.</li>
+<li><strong>Login Method</strong>: Users log in with their Instagram credentials.</li>
+<li><strong>Features</strong>: Comment moderation, content publishing, insights, messaging, and more.</li>
+</ul>
+<h2 id="access-levels">Access Levels</h2>
+<h3 id="standard-access">Standard Access</h3>
+<ul>
+<li><strong>Default Access Level</strong>: Available to all apps.</li>
+<li><strong>Intended Use</strong>: For apps used by people with roles on them, during development, or for testing.</li>
+<li><strong>Limitations</strong>: Limited data access; suitable for apps serving your own or managed Instagram professional accounts.</li>
+</ul>
+<h3 id="advanced-access">Advanced Access</h3>
+<ul>
+<li><strong>Required For</strong>: Apps serving Instagram professional accounts not owned or managed by you.</li>
+<li><strong>Requirements</strong>: App Review and Business Verification.</li>
+<li><strong>Benefits</strong>: Full access to API features and data.</li>
+</ul>
+<h2 id="app-review">App Review</h2>
+<p>Meta App Review is a process that verifies your app&rsquo;s compliance with Meta&rsquo;s policies. Completing this review is necessary to gain Advanced Access. If your app is private or lacks a user interface, you can request approval for specific permissions like <code>instagram_basic</code> and <code>instagram_manage_comments</code>.</p>
+<h2 id="app-users">App Users</h2>
+<p>To use the Instagram APIs, your app users must have an Instagram professional account, which can be for a business or creator. Depending on the API configuration, users may need to log in with either Instagram or Facebook credentials. For accounts linked to a Facebook Page, users must also have admin-equivalent tasks on the linked Page.</p>
+<h2 id="authentication-and-authorization">Authentication and Authorization</h2>
+<h3 id="login-flow">Login Flow</h3>
+<ol>
+<li><strong>User Clicks Embed URL</strong>: Meta opens an authorization window.</li>
+<li><strong>User Grants Permissions</strong>: Meta redirects the user to your app’s redirect URI with an Authorization Code.</li>
+<li><strong>Exchange Authorization Code</strong>: Obtain a short-lived access token, user ID, and granted permissions.</li>
+<li><strong>Obtain Long-Lived Access Token</strong>: Exchange the short-lived token for a long-lived token valid for 60 days.</li>
+</ol>
+<h3 id="access-tokens">Access Tokens</h3>
+<ul>
+<li><strong>Short-Lived Token</strong>: Valid for one hour.</li>
+<li><strong>Long-Lived Token</strong>: Valid for 60 days, refreshable.</li>
+<li><strong>Token Types</strong>: Instagram User access tokens (for Instagram Login) or Facebook User access tokens (for Facebook Login).</li>
+</ul>
+<h2 id="features-and-permissions">Features and Permissions</h2>
+<h3 id="instagram-login">Instagram Login</h3>
+<ul>
+<li><code>instagram_business_basic</code></li>
+<li><code>instagram_business_content_publish</code></li>
+<li><code>instagram_business_manage_comments</code></li>
+<li><code>instagram_business_manage_messages</code></li>
+<li><code>Human Agent</code></li>
+</ul>
+<h3 id="facebook-login">Facebook Login</h3>
+<ul>
+<li><code>instagram_basic</code></li>
+<li><code>instagram_content_publish</code></li>
+<li><code>instagram_manage_comments</code></li>
+<li><code>instagram_manage_insights</code></li>
+<li><code>instagram_manage_messages</code></li>
+<li><code>pages_show_list</code></li>
+<li><code>pages_read_engagement</code></li>
+<li><code>Human Agent</code></li>
+<li><code>Instagram Public Content Access</code></li>
+</ul>
+<p>The <strong>Human Agent</strong> feature allows your app to have a human agent respond to user messages within 7 days using the <code>human_agent</code> tag.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>By following this guide, you can effectively integrate the Instagram Platform APIs into your application, enabling powerful features for Instagram professional accounts. Whether you&rsquo;re building for your own account or for others, understanding the configurations, access levels, and authentication processes is key to a successful integration.</p>
+<p><img src="https://scontent.fixc1-10.fna.fbcdn.net/v/t39.2365-6/471917229_913199460797484_8193269479944173834_n.png?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=fPonhwncnWEQ7kNvgEr8rCn&amp;_nc_oc=Adiv_YSCWMadp3Ed3CXt2ULTmEHKQhEUzGQBP6idcfpTzKfnSUd-k-z1UnfVzVLoHu8IvL0HyJeJZkwY5O3Jxgtd&amp;_nc_zt=14&amp;_nc_ht=scontent.fixc1-10.fna&amp;_nc_gid=A03kpBMk9whD90V_tVhyodf&amp;oh=00_AYBeeTfJ8bYakWpWHb-cVHvNDyHxnOGIeQxD6utSk_b8_A&amp;oe=67E2629F" alt="Authorization flow"></p>
+<p>reference from: <a href="https://developers.facebook.com/docs/instagram-platform/overview">Instagram API</a></p>
+<h1 id="instagram-messaging-api-guide">Instagram Messaging API Guide</h1>
+<p>This guide provides detailed instructions on how to use the Instagram Messaging API to send and manage messages, reactions, and media shares. It assumes you have already set up the necessary components, such as a Meta login flow and a webhooks server to receive notifications.</p>
+<h2 id="table-of-contents-1">Table of Contents</h2>
+<ol>
+<li><a href="#requirements">Requirements</a></li>
+<li><a href="#access-tokens">Access Tokens</a></li>
+<li><a href="#base-url">Base URL</a></li>
+<li><a href="#endpoints">Endpoints</a></li>
+<li><a href="#required-parameters">Required Parameters</a></li>
+<li><a href="#ids">IDs</a></li>
+<li><a href="#permissions">Permissions</a></li>
+<li><a href="#webhook-event-subscriptions">Webhook Event Subscriptions</a></li>
+<li><a href="#media-types-and-specifications">Media Types and Specifications</a></li>
+<li><a href="#send-a-text-message">Send a Text Message</a></li>
+<li><a href="#send-an-image-or-gif">Send an Image or GIF</a></li>
+<li><a href="#send-audio-or-video">Send Audio or Video</a></li>
+<li><a href="#send-a-sticker">Send a Sticker</a></li>
+<li><a href="#react-or-unreact-to-a-message">React or Unreact to a Message</a></li>
+<li><a href="#send-a-published-post">Send a Published Post</a></li>
+</ol>
+<h2 id="requirements">Requirements</h2>
+<ul>
+<li><strong>Access Level</strong>:
+<ul>
+<li><strong>Advanced Access</strong>: Required if your app serves Instagram professional accounts you don&rsquo;t own or manage.</li>
+<li><strong>Standard Access</strong>: Suitable if your app serves Instagram professional accounts you own or manage. Note that some features may not work properly until your app has been granted Advanced Access.</li>
+</ul>
+</li>
+<li><strong>Access Tokens</strong>: An Instagram User access token requested from a person who can send a message from the Instagram professional account.</li>
+</ul>
+<h2 id="access-tokens-1">Access Tokens</h2>
+<ul>
+<li><strong>Instagram User Access Token</strong>: Required for API requests.</li>
+</ul>
+<h2 id="base-url">Base URL</h2>
+<p>All endpoints can be accessed via the <code>graph.instagram.com</code> host.</p>
+<h2 id="endpoints">Endpoints</h2>
+<ul>
+<li><code>/&lt;IG_ID&gt;/messages</code> or <code>/me/messages</code></li>
+</ul>
+<h2 id="required-parameters">Required Parameters</h2>
+<ul>
+<li><code>recipient:{id:&lt;IGSID&gt;}</code></li>
+<li><code>message:{&lt;MESSAGE_ELEMENTS&gt;}</code></li>
+</ul>
+<h2 id="ids">IDs</h2>
+<ul>
+<li><strong>Instagram Professional Account ID (<code>&lt;IG_ID&gt;</code>)</strong>: The ID of the app user&rsquo;s Instagram professional account that received the message.</li>
+<li><strong>Instagram-scoped ID (<code>&lt;IGSID&gt;</code>)</strong>: The ID for the Instagram user who sent the message to your app user, received from an Instagram messaging webhook notification.</li>
+</ul>
+<h2 id="permissions">Permissions</h2>
+<ul>
+<li><code>instagram_business_basic</code></li>
+<li><code>instagram_business_manage_messages</code></li>
+</ul>
+<h2 id="webhook-event-subscriptions">Webhook Event Subscriptions</h2>
+<ul>
+<li><code>messages</code></li>
+<li><code>messaging_optins</code></li>
+<li><code>messaging_postbacks</code></li>
+<li><code>messaging_reactions</code></li>
+<li><code>messaging_referrals</code></li>
+<li><code>messaging_seen</code></li>
+</ul>
+<h2 id="media-types-and-specifications">Media Types and Specifications</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Media Type</th>
+          <th>Supported Formats</th>
+          <th>Maximum Size</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Audio</td>
+          <td>aac, m4a, wav, mp4</td>
+          <td>25MB</td>
+      </tr>
+      <tr>
+          <td>Image</td>
+          <td>png, jpeg, gif</td>
+          <td>8MB</td>
+      </tr>
+      <tr>
+          <td>Video</td>
+          <td>mp4, ogg, avi, mov, webm</td>
+          <td>25MB</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="send-a-text-message">Send a Text Message</h2>
+<p>To send a text message or a link, send a POST request to the <code>/&lt;IG_ID&gt;/messages</code> endpoint.</p>
+<p><strong>Sample Request</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -X POST <span style="color:#e6db74">&#34;https://graph.instagram.com/v22.0/&lt;IG_ID&gt;/messages&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -H <span style="color:#e6db74">&#34;Authorization: Bearer &lt;INSTAGRAM_USER_ACCESS_TOKEN&gt;&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -H <span style="color:#e6db74">&#34;Content-Type: application/json&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -d <span style="color:#e6db74">&#39;{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;recipient&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">               &#34;id&#34;:&#34;&lt;IGSID&gt;&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           },
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;message&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">              &#34;text&#34;:&#34;&lt;TEXT_OR_LINK&gt;&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        }&#39;</span>
+</span></span></code></pre></div><h2 id="send-an-image-or-gif">Send an Image or GIF</h2>
+<p>To send an image or GIF, include an attachment object in the message parameter.</p>
+<p><strong>Sample Request</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -X POST <span style="color:#e6db74">&#34;https://graph.instagram.com/v22.0/&lt;IG_ID&gt;/messages&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -H <span style="color:#e6db74">&#34;Authorization: Bearer &lt;INSTAGRAM_USER_ACCESS_TOKEN&gt;&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -H <span style="color:#e6db74">&#34;Content-Type: application/json&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -d <span style="color:#e6db74">&#39;{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;recipient&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">               &#34;id&#34;:&#34;&lt;IGSID&gt;&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           },
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;message&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">              &#34;attachment&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">               &#34;type&#34;:&#34;image&#34;,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">               &#34;payload&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">                 &#34;url&#34;:&#34;&lt;IMAGE_OR_GIF_URL&gt;&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">               }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">             }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">         }&#39;</span>
+</span></span></code></pre></div><h2 id="send-audio-or-video">Send Audio or Video</h2>
+<p>To send an audio or video message, set the attachment type to <code>audio</code> or <code>video</code>.</p>
+<p><strong>Sample Request</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -X POST <span style="color:#e6db74">&#34;https://graph.instagram.com/v22.0/&lt;IG_ID&gt;/messages&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -H <span style="color:#e6db74">&#34;Authorization: Bearer &lt;INSTAGRAM_USER_ACCESS_TOKEN&gt;&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -H <span style="color:#e6db74">&#34;Content-Type: application/json&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -d <span style="color:#e6db74">&#39;{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;recipient&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">               &#34;id&#34;:&#34;&lt;IGSID&gt;&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           },
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;message&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">              &#34;attachment&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">               &#34;type&#34;:&#34;audio&#34;,  // Or set to video
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">               &#34;payload&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">                 &#34;url&#34;:&#34;&lt;AUDIO_OR_VIDEO_FILE_URL&gt;&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">               }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">             }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">          }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        }&#39;</span>
+</span></span></code></pre></div><h2 id="send-a-sticker">Send a Sticker</h2>
+<p>To send a heart sticker, set the attachment type to <code>like_heart</code>.</p>
+<p><strong>Sample Request</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -X POST <span style="color:#e6db74">&#34;https://graph.instagram.com/v22.0/&lt;IG_ID&gt;/messages&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -H <span style="color:#e6db74">&#34;Authorization: Bearer &lt;INSTAGRAM_USER_ACCESS_TOKEN&gt;&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -H <span style="color:#e6db74">&#34;Content-Type: application/json&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -d <span style="color:#e6db74">&#39;{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;recipient&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">               &#34;id&#34;:&#34;&lt;IGSID&gt;&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           },
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;message&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">              &#34;attachment&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">                &#34;type&#34;:&#34;like_heart&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">              }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">            }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">         }&#39;</span>
+</span></span></code></pre></div><h2 id="react-or-unreact-to-a-message">React or Unreact to a Message</h2>
+<p>To react or unreact to a message, use the <code>sender_action</code> parameter.</p>
+<p><strong>Sample Request</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -X POST <span style="color:#e6db74">&#34;https://graph.instagram.com/v22.0/&lt;IG_ID&gt;/messages&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -H <span style="color:#e6db74">&#34;Authorization: Bearer &lt;INSTAGRAM_USER_ACCESS_TOKEN&gt;&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -H <span style="color:#e6db74">&#34;Content-Type: application/json&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -d <span style="color:#e6db74">&#39;{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;recipient&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">               &#34;id&#34;:&#34;&lt;IGSID&gt;&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           },
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;sender_action&#34;:&#34;react&#34;,  // Or set to unreact to remove the reaction
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;payload&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">             &#34;message_id&#34;:&#34;&lt;MESSAGE_ID&gt;&#34;,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">             &#34;reaction&#34;:&#34;love&#34;      // Omit if removing a reaction
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">         }&#39;</span>
+</span></span></code></pre></div><h2 id="send-a-published-post">Send a Published Post</h2>
+<p>To send a message containing an app user&rsquo;s Instagram post, set the attachment type to <code>MEDIA_SHARE</code>.</p>
+<p><strong>Sample Request</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -X POST <span style="color:#e6db74">&#34;https://graph.instagram.com/v22.0/&lt;IG_ID&gt;/messages&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -H <span style="color:#e6db74">&#34;Authorization: Bearer &lt;INSTAGRAM_USER_ACCESS_TOKEN&gt;&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -H <span style="color:#e6db74">&#34;Content-Type: application/json&#34;</span> <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>     -d <span style="color:#e6db74">&#39;{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;recipient&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">               &#34;id&#34;:&#34;&lt;IGSID&gt;&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           },
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           &#34;message&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">              &#34;attachment&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">                &#34;type&#34;:&#34;MEDIA_SHARE&#34;,
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">                &#34;payload&#34;:{
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">                  &#34;id&#34;:&#34;&lt;POST_ID&gt;&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">                }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">              }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">           }
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        }&#39;</span>
+</span></span></code></pre></div><p>This guide should help you effectively use the Instagram Messaging API to interact with Instagram professional accounts.</p>
+<p>information sourced from <a href="https://developers.facebook.com/docs/instagram-platform/instagram-api-with-instagram-login/messaging-api#requirements">instagram messaging API</a></p>
+<h1 id="instagram-conversations-api-guide">Instagram Conversations API Guide</h1>
+<p>This guide explains how to retrieve information about conversations between your app user and an Instagram user interested in your app user&rsquo;s Instagram media. You can use this API to:</p>
+<ul>
+<li>Get a list of conversations for your app user&rsquo;s Instagram professional account.</li>
+<li>Retrieve a list of messages within each conversation.</li>
+<li>Access details about each message, including when it was sent and by whom.</li>
+</ul>
+<hr>
+<h2 id="table-of-contents-2">Table of Contents</h2>
+<ol>
+<li><a href="#requirements">Requirements</a></li>
+<li><a href="#access-tokens">Access Tokens</a></li>
+<li><a href="#base-url">Base URL</a></li>
+<li><a href="#endpoints">Endpoints</a></li>
+<li><a href="#ids">IDs</a></li>
+<li><a href="#permissions">Permissions</a></li>
+<li><a href="#limitations">Limitations</a></li>
+<li><a href="#get-a-list-of-conversations">Get a List of Conversations</a></li>
+<li><a href="#find-a-conversation-with-a-specific-person">Find a Conversation with a Specific Person</a></li>
+<li><a href="#get-a-list-of-messages-in-a-conversation">Get a List of Messages in a Conversation</a></li>
+<li><a href="#get-information-about-a-message">Get Information About a Message</a></li>
+</ol>
+<hr>
+<h2 id="requirements-1">Requirements</h2>
+<p>This guide assumes you have:</p>
+<ul>
+<li>Read the <a href="https://developers.facebook.com/docs/instagram-api/">Instagram Platform Overview</a>.</li>
+<li>Implemented the necessary components, such as a Meta login flow and a webhooks server to receive notifications.</li>
+</ul>
+<h3 id="access-level">Access Level</h3>
+<ul>
+<li><strong>Advanced Access</strong>: Required if your app serves Instagram professional accounts you don&rsquo;t own or manage.</li>
+<li><strong>Standard Access</strong>: Suitable if your app serves Instagram professional accounts you own or manage and have added to your app in the App Dashboard.</li>
+</ul>
+<h3 id="access-tokens-2">Access Tokens</h3>
+<ul>
+<li><strong>Instagram User Access Token</strong>: Requested from a person who can manage messages on the Instagram professional account.</li>
+</ul>
+<hr>
+<h2 id="base-url-1">Base URL</h2>
+<p>All endpoints can be accessed via the <code>graph.instagram.com</code> host.</p>
+<hr>
+<h2 id="endpoints-1">Endpoints</h2>
+<ul>
+<li><code>/&lt;IG_ID&gt;/conversations</code> or <code>/me/conversations</code></li>
+</ul>
+<hr>
+<h2 id="ids-1">IDs</h2>
+<ul>
+<li><strong>Instagram Professional Account ID (<code>&lt;IG_ID&gt;</code>)</strong>:
+<ul>
+<li>The ID of the app user&rsquo;s Instagram professional account.</li>
+</ul>
+</li>
+<li><strong>Instagram-scoped ID (<code>&lt;IGSID&gt;</code>)</strong>:
+<ul>
+<li>The ID for the Instagram user in the conversation.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="permissions-1">Permissions</h2>
+<ul>
+<li><code>instagram_business_basic</code></li>
+<li><code>instagram_business_manage_messages</code></li>
+</ul>
+<hr>
+<h2 id="limitations">Limitations</h2>
+<ul>
+<li>Only the image or video URL for a share will be included in the data returned in API calls or webhooks notifications.</li>
+<li>Conversations in the <strong>Requests folder</strong> that have not been active for <strong>30 days</strong> will not be returned in API calls.</li>
+</ul>
+<hr>
+<h2 id="get-a-list-of-conversations">Get a List of Conversations</h2>
+<p>To retrieve a list of conversations for your app user&rsquo;s Instagram professional account, send a <strong>GET</strong> request to the <code>/&lt;IG_ID&gt;/conversations</code> endpoint.</p>
+<h3 id="sample-request">Sample Request</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -i -X GET <span style="color:#e6db74">&#34;https://graph.instagram.com/v22.0/me/conversations?platform=instagram&amp;access_token=&lt;INSTAGRAM_ACCESS_TOKEN&gt;&#34;</span>
+</span></span></code></pre></div><h3 id="example-response">Example Response</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;data&#34;</span>: [
+</span></span><span style="display:flex;"><span>    {
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;id&#34;</span>: <span style="color:#e6db74">&#34;&lt;CONVERSATION_ID_1&gt;&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;updated_time&#34;</span>: <span style="color:#e6db74">&#34;&lt;UNIX_TIMESTAMP&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>    },
+</span></span><span style="display:flex;"><span>    {
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;id&#34;</span>: <span style="color:#e6db74">&#34;&lt;CONVERSATION_ID_2&gt;&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;updated_time&#34;</span>: <span style="color:#e6db74">&#34;&lt;UNIX_TIMESTAMP&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>  ]
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><hr>
+<h2 id="find-a-conversation-with-a-specific-person">Find a Conversation with a Specific Person</h2>
+<p>To retrieve a conversation between your app user&rsquo;s Instagram professional account and a specific Instagram user, send a <strong>GET</strong> request to the <code>/&lt;IG_ID&gt;/conversations</code> endpoint with the <code>user_id</code> parameter set to the Instagram-scoped ID (<code>&lt;IGSID&gt;</code>).</p>
+<h3 id="sample-request-1">Sample Request</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -i -X GET <span style="color:#e6db74">&#34;https://graph.instagram.com/v22.0/me/conversations?user_id=&lt;IGSID&gt;&amp;access_token=&lt;INSTAGRAM_ACCESS_TOKEN&gt;&#34;</span>
+</span></span></code></pre></div><h3 id="example-response-1">Example Response</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;data&#34;</span>: [
+</span></span><span style="display:flex;"><span>    {
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;id&#34;</span>: <span style="color:#e6db74">&#34;&lt;CONVERSATION_ID&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>  ]
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><hr>
+<h2 id="get-a-list-of-messages-in-a-conversation">Get a List of Messages in a Conversation</h2>
+<p>To retrieve a list of messages in a conversation, send a <strong>GET</strong> request to the <code>/&lt;CONVERSATION_ID&gt;</code> endpoint with the <code>fields</code> parameter set to <code>messages</code>.</p>
+<h3 id="sample-request-2">Sample Request</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -i -X GET <span style="color:#e6db74">&#34;https://graph.instagram.com/v22.0/&lt;CONVERSATION_ID&gt;?fields=messages&amp;access_token=&lt;INSTAGRAM_ACCESS_TOKEN&gt;&#34;</span>
+</span></span></code></pre></div><h3 id="example-response-2">Example Response</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;messages&#34;</span>: {
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;data&#34;</span>: [
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;id&#34;</span>: <span style="color:#e6db74">&#34;&lt;MESSAGE_1_ID&gt;&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;created_time&#34;</span>: <span style="color:#e6db74">&#34;&lt;UNIX_TIMESTAMP&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>      },
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;id&#34;</span>: <span style="color:#e6db74">&#34;&lt;MESSAGE_2_ID&gt;&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;created_time&#34;</span>: <span style="color:#e6db74">&#34;&lt;UNIX_TIMESTAMP&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>      },
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;id&#34;</span>: <span style="color:#e6db74">&#34;&lt;MESSAGE_3_ID&gt;&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;created_time&#34;</span>: <span style="color:#e6db74">&#34;&lt;UNIX_TIMESTAMP&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>      }
+</span></span><span style="display:flex;"><span>    ]
+</span></span><span style="display:flex;"><span>  },
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;id&#34;</span>: <span style="color:#e6db74">&#34;&lt;CONVERSATION_ID&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><hr>
+<h2 id="get-information-about-a-message">Get Information About a Message</h2>
+<p>To retrieve details about a specific message, such as the sender, receiver, and message content, send a <strong>GET</strong> request to the <code>/&lt;MESSAGE_ID&gt;</code> endpoint with the <code>fields</code> parameter set to a comma-separated list of fields you are interested in.</p>
+<h3 id="default-fields">Default Fields</h3>
+<ul>
+<li><code>id</code></li>
+<li><code>created_time</code></li>
+</ul>
+<h3 id="sample-request-3">Sample Request</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -i -X GET <span style="color:#e6db74">&#34;https://graph.instagram.com/v22.0/&lt;MESSAGE_ID&gt;?fields=id,created_time,from,to,message&amp;access_token=&lt;INSTAGRAM_ACCESS_TOKEN&gt;&#34;</span>
+</span></span></code></pre></div><h3 id="example-response-3">Example Response</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;id&#34;</span>: <span style="color:#e6db74">&#34;&lt;MESSAGE_ID&gt;&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;created_time&#34;</span>: <span style="color:#e6db74">&#34;2022-07-12T19:11:07+0000&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;to&#34;</span>: {
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;data&#34;</span>: [
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;username&#34;</span>: <span style="color:#e6db74">&#34;&lt;IG_ID_USERNAME&gt;&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;id&#34;</span>: <span style="color:#e6db74">&#34;&lt;IG_ID&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>      }
+</span></span><span style="display:flex;"><span>    ]
+</span></span><span style="display:flex;"><span>  },
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;from&#34;</span>: {
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;username&#34;</span>: <span style="color:#e6db74">&#34;&lt;IGSID_USERNAME&gt;&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;id&#34;</span>: <span style="color:#e6db74">&#34;&lt;IGSID&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>  },
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;message&#34;</span>: <span style="color:#e6db74">&#34;Hi Kitty!&#34;</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><hr>
+<h2 id="notes">Notes</h2>
+<ul>
+<li>Queries to the <code>/&lt;CONVERSATION_ID&gt;</code> endpoint will return all message IDs in a conversation. However, you can only retrieve details about the <strong>20 most recent messages</strong>. If you query a message older than the last 20, you will receive an error indicating that the message has been deleted.</li>
+</ul>
+<hr>
+<p>information sourced from <a href="https://developers.facebook.com/docs/instagram-platform/instagram-api-with-instagram-login/conversations-api">instagram conversation API</a></p></article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+<script type="application/javascript" src='https://shivamatwork16.github.io/js/toc.js'></script>
+<link rel="stylesheet" href='https://shivamatwork16.github.io/css/toc.css' />
+
+  
+</div>
+
+  <div class="footer container-xl width-full p-responsive">
+  <div
+    class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://shivamatwork16.github.io/">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+        </path>
+      </svg>
+    </a>
+    <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      
+      <li class="mr-3 mr-lg-0">Theme by <a href='https://github.com/MeiK2333/github-style'>github-style</a></li>
+      
+      <li class="mr-3 mr-lg-0">GitHub and the Invertocat logo are trademarks of <a href="https://github.com/">GitHub, Inc.</a></li>
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+
+
+</div>
+
+</body>
+
+<script type="application/javascript" src="https://shivamatwork16.github.io/js/github-style.js"></script>
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>
+<script type="application/javascript" src='https://shivamatwork16.github.io/js/search.js'></script>
+
+
+
+</html>
