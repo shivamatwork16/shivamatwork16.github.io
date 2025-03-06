@@ -99,13 +99,6 @@ To use the Instagram APIs, your app users must have an Instagram professional ac
 - `Instagram Public Content Access`
 
 The **Human Agent** feature allows your app to have a human agent respond to user messages within 7 days using the `human_agent` tag.
-
-## Conclusion
-By following this guide, you can effectively integrate the Instagram Platform APIs into your application, enabling powerful features for Instagram professional accounts. Whether you're building for your own account or for others, understanding the configurations, access levels, and authentication processes is key to a successful integration.
-
-
-![Authorization flow](https://scontent.fixc1-10.fna.fbcdn.net/v/t39.2365-6/471917229_913199460797484_8193269479944173834_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e280be&_nc_ohc=fPonhwncnWEQ7kNvgEr8rCn&_nc_oc=Adiv_YSCWMadp3Ed3CXt2ULTmEHKQhEUzGQBP6idcfpTzKfnSUd-k-z1UnfVzVLoHu8IvL0HyJeJZkwY5O3Jxgtd&_nc_zt=14&_nc_ht=scontent.fixc1-10.fna&_nc_gid=A03kpBMk9whD90V_tVhyodf&oh=00_AYBeeTfJ8bYakWpWHb-cVHvNDyHxnOGIeQxD6utSk_b8_A&oe=67E2629F)
-
 reference from: [Instagram API](https://developers.facebook.com/docs/instagram-platform/overview)
 
 # Instagram Messaging API Guide
@@ -493,3 +486,22 @@ curl -i -X GET "https://graph.instagram.com/v22.0/<MESSAGE_ID>?fields=id,created
 ---
 
 information sourced from [instagram conversation API](https://developers.facebook.com/docs/instagram-platform/instagram-api-with-instagram-login/conversations-api)
+
+---
+
+### Handwritten Notes during the research:
+
+
+Here are the handwritten notes about the Instagram Messaging API and Conversation API, presented in a clean and organized grid:
+
+| ![Note 1 (https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_1.jpg)](https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_1.jpg) | ![Note 2 (https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_2.jpg)](https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_2.jpg) | ![Note 3 (https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_3.jpg)](https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_3.jpg) |
+|:---:|:---:|:---:|
+| Note 1 | Note 2 | Note 3 |
+
+| ![Note 4 (https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_4.jpg)](https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_4.jpg) | ![Note 5 (https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_5.jpg)](https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_5.jpg) | ![Note 6 (https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_6.jpg)](https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_6.jpg) |
+|:---:|:---:|:---:|
+| Note 4 | Note 5 | Note 6 |
+
+| ![Note 7 (https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_7.jpg)](https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_7.jpg) | ![Note 8 (https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_8.jpg)](https://cdn.jsdelivr.net/gh/shivamatwork16/img-processing@main/notes/instagram_api/Notes_instagram_API_8.jpg) | |
+|:---:|:---:|:---:|
+| Note 7 | Note 8 | |
