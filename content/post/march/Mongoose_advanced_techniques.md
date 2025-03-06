@@ -2,12 +2,13 @@
 date = '2025-03-02T18:18:30+05:30'
 draft = false
 title = 'Mastering Mongoose: Advanced Techniques'
-tags = ["Node.js", "Mongoose", "MongoDB", "Database", "Development"]
+tags = ["Node.js", "Mongoose", "MongoDB", "Database", "Development", "blog"]
 +++
 
 ## Mastering Mongoose: Advanced Techniques
 
 <!--more-->
+
 Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It simplifies interaction with MongoDB by providing a schema-based solution for modeling application data. While basic Mongoose usage is straightforward, mastering its advanced features can significantly enhance your application's performance and maintainability.
 
 ### 1. Advanced Schema Definitions
@@ -15,7 +16,7 @@ Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It si
 Beyond basic types, Mongoose schemas offer advanced capabilities:
 
 ```javascript
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 const userSchema = new Schema({
@@ -24,11 +25,11 @@ const userSchema = new Schema({
     type: String,
     required: true,
     validate: {
-      validator: function(v) {
+      validator: function (v) {
         return /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/.test(v);
       },
-      message: props => `${props.value} is not a valid email address!`
-    }
+      message: (props) => `${props.value} is not a valid email address!`,
+    },
   },
   age: { type: Number, min: 18, max: 120 },
   createdAt: { type: Date, default: Date.now },
@@ -36,9 +37,9 @@ const userSchema = new Schema({
   address: {
     street: String,
     city: String,
-    zip: String
+    zip: String,
   },
-  roles: [{ type: String, enum: ['admin', 'user', 'moderator'] }]
+  roles: [{ type: String, enum: ["admin", "user", "moderator"] }],
 });
 ```
 
@@ -47,11 +48,11 @@ const userSchema = new Schema({
 Virtuals are document properties that don't get persisted to MongoDB. They are useful for computed properties:
 
 ```javascript
-userSchema.virtual('fullName').get(function() {
-  return this.firstName + ' ' + this.lastName;
+userSchema.virtual("fullName").get(function () {
+  return this.firstName + " " + this.lastName;
 });
 
-const User = mongoose.model('User', userSchema);
+const User = mongoose.model("User", userSchema);
 ```
 
 ### 3. Middleware
@@ -59,13 +60,13 @@ const User = mongoose.model('User', userSchema);
 Mongoose middleware allows you to define pre and post hooks for various operations:
 
 ```javascript
-userSchema.pre('save', function(next) {
+userSchema.pre("save", function (next) {
   this.updatedAt = Date.now();
   next();
 });
 
-userSchema.post('save', function(doc) {
-  console.log('%s has been saved', doc._id);
+userSchema.post("save", function (doc) {
+  console.log("%s has been saved", doc._id);
 });
 ```
 
@@ -76,7 +77,7 @@ Mongoose provides an aggregation pipeline for complex data transformations:
 ```javascript
 User.aggregate([
   { $match: { age: { $gte: 25 } } },
-  { $group: { _id: '$city', count: { $sum: 1 } } }
+  { $group: { _id: "$city", count: { $sum: 1 } } },
 ]).exec((err, results) => {
   console.log(results);
 });
@@ -88,16 +89,18 @@ Population allows you to automatically replace specified paths in the document w
 
 ```javascript
 const postSchema = new Schema({
-  author: { type: Schema.Types.ObjectId, ref: 'User' },
+  author: { type: Schema.Types.ObjectId, ref: "User" },
   title: String,
-  content: String
+  content: String,
 });
 
-const Post = mongoose.model('Post', postSchema);
+const Post = mongoose.model("Post", postSchema);
 
-Post.find({}).populate('author').exec((err, posts) => {
-  console.log(posts);
-});
+Post.find({})
+  .populate("author")
+  .exec((err, posts) => {
+    console.log(posts);
+  });
 ```
 
 ### 6. Indexes
@@ -117,19 +120,15 @@ async function runTransaction() {
   const session = await mongoose.startSession();
   session.startTransaction();
   try {
-    await User.create([{ username: 'test1' }], { session });
-    await User.create([{ username: 'test2' }], { session });
+    await User.create([{ username: "test1" }], { session });
+    await User.create([{ username: "test2" }], { session });
     await session.commitTransaction();
     session.endSession();
-    console.log('Transaction committed.');
+    console.log("Transaction committed.");
   } catch (error) {
     await session.abortTransaction();
     session.endSession();
-    console.error('Transaction aborted:', error);
+    console.error("Transaction aborted:", error);
   }
 }
 ```
-
-### Conclusion
-
-By mastering these advanced Mongoose techniques, you can build more efficient, scalable, and maintainable Node.js applications with MongoDB. Always remember to consider performance implications and choose the right tool for the job.

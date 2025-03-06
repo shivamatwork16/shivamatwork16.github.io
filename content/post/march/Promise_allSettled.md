@@ -2,12 +2,13 @@
 date = '2025-03-01T18:18:30+05:30'
 draft = false
 title = 'Unveiling the Power of Promise.allSettled'
-tags = ["Node.js", "Promises", "Async/Await", "JavaScript"]
+tags = ["Node.js", "Promises", "Async/Await", "JavaScript", "blog"]
 +++
 
 ## Unveiling the Power of Promise.allSettled
 
 <!--more-->
+
 In the world of asynchronous JavaScript, especially within the Node.js environment, Promises have become an indispensable tool. They provide a clean and efficient way to handle asynchronous operations, making code more readable and maintainable. While `Promise.all` has been a staple for managing multiple Promises, a lesser-known but equally powerful sibling, `Promise.allSettled`, deserves our attention.
 
 ### Understanding `Promise.all` vs. `Promise.allSettled`
@@ -20,22 +21,24 @@ Enter `Promise.allSettled`. Introduced in ES2020, `Promise.allSettled` also take
 
 When the returned Promise from `Promise.allSettled` resolves, it provides an array of result objects. Each result object corresponds to an input Promise and has a `status` property, which is either `"fulfilled"` or `"rejected"`.
 
-* For fulfilled Promises, the result object also contains a `value` property with the resolved value.
-* For rejected Promises, the result object contains a `reason` property with the rejection reason.
+- For fulfilled Promises, the result object also contains a `value` property with the resolved value.
+- For rejected Promises, the result object contains a `reason` property with the rejection reason.
 
 Here's a simple Node.js example:
 
 ```javascript
 const promise1 = Promise.resolve(3);
-const promise2 = new Promise((resolve, reject) => setTimeout(reject, 100, 'foo'));
+const promise2 = new Promise((resolve, reject) =>
+  setTimeout(reject, 100, "foo"),
+);
 const promises = [promise1, promise2];
 
 Promise.allSettled(promises).then((results) => {
   results.forEach((result) => {
-    if (result.status === 'fulfilled') {
-      console.log('Fulfilled:', result.value);
+    if (result.status === "fulfilled") {
+      console.log("Fulfilled:", result.value);
     } else {
-      console.log('Rejected:', result.reason);
+      console.log("Rejected:", result.reason);
     }
   });
 });
@@ -51,9 +54,9 @@ Promise.allSettled(promises).then((results) => {
 
 ### Benefits
 
-* **Robustness:** Prevents a single Promise rejection from derailing the entire operation.
-* **Comprehensive Results:** Provides detailed information about the outcome of all Promises.
-* **Improved Error Handling:** Simplifies error handling by allowing you to process rejections alongside resolutions.
+- **Robustness:** Prevents a single Promise rejection from derailing the entire operation.
+- **Comprehensive Results:** Provides detailed information about the outcome of all Promises.
+- **Improved Error Handling:** Simplifies error handling by allowing you to process rejections alongside resolutions.
 
 ### Conclusion
 
