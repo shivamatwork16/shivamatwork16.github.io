@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Node.js on Shivam work diary</title>
+    <link>https://shivamatwork16.github.io/tags/node.js/</link>
+    <description>Recent content in Node.js on Shivam work diary</description>
+    <generator>Hugo</generator>
+    <language>en-in</language>
+    <lastBuildDate>Sun, 02 Mar 2025 18:18:30 +0530</lastBuildDate>
+    <atom:link href="https://shivamatwork16.github.io/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Mongoose: Advanced Techniques</title>
+      <link>https://shivamatwork16.github.io/post/march/mongoose_advanced_techniques/</link>
+      <pubDate>Sun, 02 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/march/mongoose_advanced_techniques/</guid>
+      <description>&lt;h2 id=&#34;mastering-mongoose-advanced-techniques&#34;&gt;Mastering Mongoose: Advanced Techniques&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Unveiling the Power of Promise.allSettled</title>
+      <link>https://shivamatwork16.github.io/post/march/promise_allsettled/</link>
+      <pubDate>Sat, 01 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/march/promise_allsettled/</guid>
+      <description>&lt;h2 id=&#34;unveiling-the-power-of-promiseallsettled&#34;&gt;Unveiling the Power of Promise.allSettled&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

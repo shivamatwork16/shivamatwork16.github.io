@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fetch API on Shivam work diary</title>
+    <link>https://shivamatwork16.github.io/tags/fetch-api/</link>
+    <description>Recent content in Fetch API on Shivam work diary</description>
+    <generator>Hugo</generator>
+    <language>en-in</language>
+    <lastBuildDate>Sun, 23 Feb 2025 18:18:30 +0530</lastBuildDate>
+    <atom:link href="https://shivamatwork16.github.io/tags/fetch-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demystifying the Fetch API in Modern JavaScript</title>
+      <link>https://shivamatwork16.github.io/post/feb/fetch_api/</link>
+      <pubDate>Sun, 23 Feb 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/feb/fetch_api/</guid>
+      <description>&lt;h2 id=&#34;demystifying-the-fetch-api-in-modern-javascript&#34;&gt;Demystifying the Fetch API in Modern JavaScript&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

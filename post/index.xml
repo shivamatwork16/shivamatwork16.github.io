@@ -6,14 +6,56 @@
     <description>Recent content in Posts on Shivam work diary</description>
     <generator>Hugo</generator>
     <language>en-in</language>
-    <lastBuildDate>Wed, 05 Mar 2025 17:04:24 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 18:18:30 +0530</lastBuildDate>
     <atom:link href="https://shivamatwork16.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mar_06_2025</title>
+      <link>https://shivamatwork16.github.io/post/jc/march/march_06_2025/</link>
+      <pubDate>Thu, 06 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/jc/march/march_06_2025/</guid>
+      <description>&lt;h3 id=&#34;-06-mar-2025---status-report&#34;&gt;&lt;strong&gt;📆 06 Mar 2025 - Status Report&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;-accomplishments&#34;&gt;&lt;strong&gt;🛠 Accomplishments&lt;/strong&gt;&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Mar_05_2025</title>
+      <link>https://shivamatwork16.github.io/post/jc/march/march_05_2025/</link>
+      <pubDate>Wed, 05 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/jc/march/march_05_2025/</guid>
+      <description>&lt;h3 id=&#34;-05-mar-2025---status-report&#34;&gt;&lt;strong&gt;📆 05 Mar 2025 - Status Report&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;-accomplishments&#34;&gt;&lt;strong&gt;🛠 Accomplishments&lt;/strong&gt;&lt;/h3&gt;</description>
+    </item>
     <item>
       <title>Instagram API with Instagram Login</title>
       <link>https://shivamatwork16.github.io/post/jc/instagram/readme/</link>
       <pubDate>Wed, 05 Mar 2025 17:04:24 +0530</pubDate>
       <guid>https://shivamatwork16.github.io/post/jc/instagram/readme/</guid>
-      <description>&lt;h2 id=&#34;information-about-the-instagram-api&#34;&gt;Information about the instagram api&lt;/h2&gt;&#xA;&lt;p&gt;started working for this at march 5 , 17: 05 to find out more about how it all works&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;my-findings-about-the-instagram-api&#34;&gt;My Findings about the Instagram API&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;A detailed information about the instagram messaging and conversation API.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://developers.facebook.com/docs/instagram-platform/instagram-api-with-instagram-login&#34;&gt;Instagram API&lt;/a&gt; |&#xA;&lt;a href=&#34;https://developers.facebook.com/docs/instagram-platform/instagram-api-with-instagram-login/messaging-api#requirements&#34;&gt;Instagram Messaging API&lt;/a&gt; |&#xA;&lt;a href=&#34;https://developers.facebook.com/docs/instagram-platform/instagram-api-with-instagram-login/conversations-api&#34;&gt;Instagram Conversations API&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mar_04_2025</title>
+      <link>https://shivamatwork16.github.io/post/jc/march/march_04_2025/</link>
+      <pubDate>Tue, 04 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/jc/march/march_04_2025/</guid>
+      <description>&lt;h3 id=&#34;-04-mar-2025---status-report&#34;&gt;&lt;strong&gt;📆 04 Mar 2025 - Status Report&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;-accomplishments&#34;&gt;&lt;strong&gt;🛠 Accomplishments&lt;/strong&gt;&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Mar_03_2025</title>
+      <link>https://shivamatwork16.github.io/post/jc/march/march_03_2025/</link>
+      <pubDate>Mon, 03 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/jc/march/march_03_2025/</guid>
+      <description>&lt;h3 id=&#34;-03-mar-2025---status-report&#34;&gt;&lt;strong&gt;📆 03 Mar 2025 - Status Report&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;-accomplishments&#34;&gt;&lt;strong&gt;🛠 Accomplishments&lt;/strong&gt;&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Mastering Mongoose: Advanced Techniques</title>
+      <link>https://shivamatwork16.github.io/post/march/mongoose_advanced_techniques/</link>
+      <pubDate>Sun, 02 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/march/mongoose_advanced_techniques/</guid>
+      <description>&lt;h2 id=&#34;mastering-mongoose-advanced-techniques&#34;&gt;Mastering Mongoose: Advanced Techniques&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Unveiling the Power of Promise.allSettled</title>
+      <link>https://shivamatwork16.github.io/post/march/promise_allsettled/</link>
+      <pubDate>Sat, 01 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/march/promise_allsettled/</guid>
+      <description>&lt;h2 id=&#34;unveiling-the-power-of-promiseallsettled&#34;&gt;Unveiling the Power of Promise.allSettled&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Dazhboard contributions</title>
@@ -21,6 +63,13 @@
       <pubDate>Sat, 01 Mar 2025 15:07:13 +0530</pubDate>
       <guid>https://shivamatwork16.github.io/post/jc/dazhboard/readme/</guid>
       <description>&lt;h2 id=&#34;dazhboard-contributions&#34;&gt;Dazhboard contributions&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Feb_28_2025</title>
+      <link>https://shivamatwork16.github.io/post/jc/feb/feb_28_2025/</link>
+      <pubDate>Fri, 28 Feb 2025 16:49:12 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/jc/feb/feb_28_2025/</guid>
+      <description>&lt;h3 id=&#34;-feb-28-2025---status-report&#34;&gt;&lt;strong&gt;📆 Feb 28 2025 - Status Report&lt;/strong&gt;&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Feb_27_2025</title>
@@ -49,6 +98,20 @@
       <pubDate>Mon, 24 Feb 2025 18:18:30 +0530</pubDate>
       <guid>https://shivamatwork16.github.io/post/jc/feb/feb_24_2025/</guid>
       <description>&lt;h3 id=&#34;-24-feb-2025---status-report&#34;&gt;&lt;strong&gt;📆 24 Feb 2025 - Status Report&lt;/strong&gt;&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Demystifying the Fetch API in Modern JavaScript</title>
+      <link>https://shivamatwork16.github.io/post/feb/fetch_api/</link>
+      <pubDate>Sun, 23 Feb 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/feb/fetch_api/</guid>
+      <description>&lt;h2 id=&#34;demystifying-the-fetch-api-in-modern-javascript&#34;&gt;Demystifying the Fetch API in Modern JavaScript&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Scheduling Tasks with Node Cron: A Practical Guide</title>
+      <link>https://shivamatwork16.github.io/post/feb/node_cron/</link>
+      <pubDate>Sat, 22 Feb 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/post/feb/node_cron/</guid>
+      <description>&lt;h2 id=&#34;scheduling-tasks-with-node-cron-a-practical-guide&#34;&gt;Scheduling Tasks with Node Cron: A Practical Guide&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Feb_21_2025</title>
