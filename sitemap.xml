@@ -2,10 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shivamatwork16.github.io/tags/api/</loc>
+    <lastmod>2025-03-17T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/dsr/</loc>
+    <lastmod>2025-03-17T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/dynamic-models/</loc>
+    <lastmod>2025-03-17T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/file-system/</loc>
+    <lastmod>2025-03-17T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/jc/</loc>
+    <lastmod>2025-03-17T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/post/jc/march/march_17_2025/</loc>
+    <lastmod>2025-03-17T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/postman/</loc>
+    <lastmod>2025-03-17T18:18:30+05:30</lastmod>
+  </url><url>
     <loc>https://shivamatwork16.github.io/post/</loc>
-    <lastmod>2025-03-13T18:16:00+05:30</lastmod>
+    <lastmod>2025-03-17T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/sequelize/</loc>
+    <lastmod>2025-03-17T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/</loc>
+    <lastmod>2025-03-17T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/</loc>
+    <lastmod>2025-03-17T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/database/</loc>
+    <lastmod>2025-03-13T18:16:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/e-learning/</loc>
+    <lastmod>2025-03-13T18:16:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/post/jc/march/march_13_2025/</loc>
+    <lastmod>2025-03-13T18:16:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/migration/</loc>
+    <lastmod>2025-03-13T18:16:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/mongoose/</loc>
     <lastmod>2025-03-13T18:16:00+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/bugfix/</loc>
@@ -17,16 +59,10 @@
     <loc>https://shivamatwork16.github.io/tags/documentation/</loc>
     <lastmod>2025-03-12T18:18:30+05:30</lastmod>
   </url><url>
-    <loc>https://shivamatwork16.github.io/tags/dsr/</loc>
-    <lastmod>2025-03-12T18:18:30+05:30</lastmod>
-  </url><url>
     <loc>https://shivamatwork16.github.io/tags/email/</loc>
     <lastmod>2025-03-12T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/frontend/</loc>
-    <lastmod>2025-03-12T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/jc/</loc>
     <lastmod>2025-03-12T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/post/jc/march/march_12_2025/</loc>
@@ -36,9 +72,6 @@
     <lastmod>2025-03-12T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/scheduling/</loc>
-    <lastmod>2025-03-12T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/</loc>
     <lastmod>2025-03-12T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/post/jc/utils/csv_email_sender/</loc>
@@ -62,9 +95,6 @@
     <loc>https://shivamatwork16.github.io/post/jc/march/march_10_2025/</loc>
     <lastmod>2025-03-10T18:18:30+05:30</lastmod>
   </url><url>
-    <loc>https://shivamatwork16.github.io/tags/api/</loc>
-    <lastmod>2025-03-07T18:18:30+05:30</lastmod>
-  </url><url>
     <loc>https://shivamatwork16.github.io/tags/demo/</loc>
     <lastmod>2025-03-07T18:18:30+05:30</lastmod>
   </url><url>
@@ -75,9 +105,6 @@
     <lastmod>2025-03-06T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/post/jc/march/march_06_2025/</loc>
-    <lastmod>2025-03-06T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/postman/</loc>
     <lastmod>2025-03-06T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/survey/</loc>
@@ -110,16 +137,10 @@
     <loc>https://shivamatwork16.github.io/tags/blog/</loc>
     <lastmod>2025-03-02T18:18:30+05:30</lastmod>
   </url><url>
-    <loc>https://shivamatwork16.github.io/tags/database/</loc>
-    <lastmod>2025-03-02T18:18:30+05:30</lastmod>
-  </url><url>
     <loc>https://shivamatwork16.github.io/tags/development/</loc>
     <lastmod>2025-03-02T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/post/march/mongoose_advanced_techniques/</loc>
-    <lastmod>2025-03-02T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/mongoose/</loc>
     <lastmod>2025-03-02T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/node.js/</loc>
