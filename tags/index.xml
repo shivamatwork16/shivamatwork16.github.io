@@ -6,20 +6,174 @@
     <description>Recent content in Tags on Shivam work diary</description>
     <generator>Hugo</generator>
     <language>en-in</language>
-    <lastBuildDate>Mon, 17 Mar 2025 18:18:30 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 18:18:30 +0530</lastBuildDate>
     <atom:link href="https://shivamatwork16.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>API</title>
-      <link>https://shivamatwork16.github.io/tags/api/</link>
-      <pubDate>Mon, 17 Mar 2025 18:18:30 +0530</pubDate>
-      <guid>https://shivamatwork16.github.io/tags/api/</guid>
+      <title>CSV</title>
+      <link>https://shivamatwork16.github.io/tags/csv/</link>
+      <pubDate>Mon, 24 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/csv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dashboard</title>
+      <link>https://shivamatwork16.github.io/tags/dashboard/</link>
+      <pubDate>Mon, 24 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/dashboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Import</title>
+      <link>https://shivamatwork16.github.io/tags/data-import/</link>
+      <pubDate>Mon, 24 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/data-import/</guid>
       <description></description>
     </item>
     <item>
       <title>DSR</title>
       <link>https://shivamatwork16.github.io/tags/dsr/</link>
-      <pubDate>Mon, 17 Mar 2025 18:18:30 +0530</pubDate>
+      <pubDate>Mon, 24 Mar 2025 18:18:30 +0530</pubDate>
       <guid>https://shivamatwork16.github.io/tags/dsr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>E-Learning</title>
+      <link>https://shivamatwork16.github.io/tags/e-learning/</link>
+      <pubDate>Mon, 24 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/e-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JC</title>
+      <link>https://shivamatwork16.github.io/tags/jc/</link>
+      <pubDate>Mon, 24 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/jc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review Survey API</title>
+      <link>https://shivamatwork16.github.io/tags/review-survey-api/</link>
+      <pubDate>Mon, 24 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/review-survey-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unique Constraints</title>
+      <link>https://shivamatwork16.github.io/tags/unique-constraints/</link>
+      <pubDate>Mon, 24 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/unique-constraints/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>XLSX</title>
+      <link>https://shivamatwork16.github.io/tags/xlsx/</link>
+      <pubDate>Mon, 24 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/xlsx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ALTER TABLE</title>
+      <link>https://shivamatwork16.github.io/tags/alter-table/</link>
+      <pubDate>Fri, 21 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/alter-table/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MySQL</title>
+      <link>https://shivamatwork16.github.io/tags/mysql/</link>
+      <pubDate>Fri, 21 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/mysql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL Parser</title>
+      <link>https://shivamatwork16.github.io/tags/sql-parser/</link>
+      <pubDate>Fri, 21 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/sql-parser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>https://shivamatwork16.github.io/tags/testing/</link>
+      <pubDate>Fri, 21 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AST</title>
+      <link>https://shivamatwork16.github.io/tags/ast/</link>
+      <pubDate>Thu, 20 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/ast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Management</title>
+      <link>https://shivamatwork16.github.io/tags/data-management/</link>
+      <pubDate>Thu, 20 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/data-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>https://shivamatwork16.github.io/tags/sql/</link>
+      <pubDate>Thu, 20 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ALTER</title>
+      <link>https://shivamatwork16.github.io/tags/alter/</link>
+      <pubDate>Wed, 19 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/alter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CRUD</title>
+      <link>https://shivamatwork16.github.io/tags/crud/</link>
+      <pubDate>Wed, 19 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/crud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dynamic Tables</title>
+      <link>https://shivamatwork16.github.io/tags/dynamic-tables/</link>
+      <pubDate>Wed, 19 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/dynamic-tables/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Validation</title>
+      <link>https://shivamatwork16.github.io/tags/validation/</link>
+      <pubDate>Wed, 19 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/validation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>API</title>
+      <link>https://shivamatwork16.github.io/tags/api/</link>
+      <pubDate>Tue, 18 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dynamic Data</title>
+      <link>https://shivamatwork16.github.io/tags/dynamic-data/</link>
+      <pubDate>Tue, 18 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/dynamic-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Joi</title>
+      <link>https://shivamatwork16.github.io/tags/joi/</link>
+      <pubDate>Tue, 18 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/joi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sequelize</title>
+      <link>https://shivamatwork16.github.io/tags/sequelize/</link>
+      <pubDate>Tue, 18 Mar 2025 18:18:30 +0530</pubDate>
+      <guid>https://shivamatwork16.github.io/tags/sequelize/</guid>
       <description></description>
     </item>
     <item>
@@ -37,13 +191,6 @@
       <description></description>
     </item>
     <item>
-      <title>JC</title>
-      <link>https://shivamatwork16.github.io/tags/jc/</link>
-      <pubDate>Mon, 17 Mar 2025 18:18:30 +0530</pubDate>
-      <guid>https://shivamatwork16.github.io/tags/jc/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Postman</title>
       <link>https://shivamatwork16.github.io/tags/postman/</link>
       <pubDate>Mon, 17 Mar 2025 18:18:30 +0530</pubDate>
@@ -51,24 +198,10 @@
       <description></description>
     </item>
     <item>
-      <title>Sequelize</title>
-      <link>https://shivamatwork16.github.io/tags/sequelize/</link>
-      <pubDate>Mon, 17 Mar 2025 18:18:30 +0530</pubDate>
-      <guid>https://shivamatwork16.github.io/tags/sequelize/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Database</title>
       <link>https://shivamatwork16.github.io/tags/database/</link>
       <pubDate>Thu, 13 Mar 2025 18:16:00 +0530</pubDate>
       <guid>https://shivamatwork16.github.io/tags/database/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>E-Learning</title>
-      <link>https://shivamatwork16.github.io/tags/e-learning/</link>
-      <pubDate>Thu, 13 Mar 2025 18:16:00 +0530</pubDate>
-      <guid>https://shivamatwork16.github.io/tags/e-learning/</guid>
       <description></description>
     </item>
     <item>
@@ -90,13 +223,6 @@
       <link>https://shivamatwork16.github.io/tags/bugfix/</link>
       <pubDate>Wed, 12 Mar 2025 18:18:30 +0530</pubDate>
       <guid>https://shivamatwork16.github.io/tags/bugfix/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dashboard</title>
-      <link>https://shivamatwork16.github.io/tags/dashboard/</link>
-      <pubDate>Wed, 12 Mar 2025 18:18:30 +0530</pubDate>
-      <guid>https://shivamatwork16.github.io/tags/dashboard/</guid>
       <description></description>
     </item>
     <item>
@@ -135,13 +261,6 @@
       <description></description>
     </item>
     <item>
-      <title>CSV</title>
-      <link>https://shivamatwork16.github.io/tags/csv/</link>
-      <pubDate>Tue, 11 Mar 2025 18:18:30 +0530</pubDate>
-      <guid>https://shivamatwork16.github.io/tags/csv/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Feedback</title>
       <link>https://shivamatwork16.github.io/tags/feedback/</link>
       <pubDate>Tue, 11 Mar 2025 18:18:30 +0530</pubDate>
@@ -153,13 +272,6 @@
       <link>https://shivamatwork16.github.io/tags/reminder/</link>
       <pubDate>Tue, 11 Mar 2025 18:18:30 +0530</pubDate>
       <guid>https://shivamatwork16.github.io/tags/reminder/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Testing</title>
-      <link>https://shivamatwork16.github.io/tags/testing/</link>
-      <pubDate>Tue, 11 Mar 2025 18:18:30 +0530</pubDate>
-      <guid>https://shivamatwork16.github.io/tags/testing/</guid>
       <description></description>
     </item>
     <item>
@@ -307,13 +419,6 @@
       <link>https://shivamatwork16.github.io/tags/middleware/</link>
       <pubDate>Fri, 21 Feb 2025 18:18:30 +0530</pubDate>
       <guid>https://shivamatwork16.github.io/tags/middleware/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Validation</title>
-      <link>https://shivamatwork16.github.io/tags/validation/</link>
-      <pubDate>Fri, 21 Feb 2025 18:18:30 +0530</pubDate>
-      <guid>https://shivamatwork16.github.io/tags/validation/</guid>
       <description></description>
     </item>
     <item>
