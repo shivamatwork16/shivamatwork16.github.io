@@ -2,11 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shivamatwork16.github.io/tags/api/</loc>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/dsr/</loc>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/e-learning/</loc>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/error-handling/</loc>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/jc/</loc>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/post/jc/march/march_26_2025/</loc>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/mysql/</loc>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/permissions/</loc>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
+  </url><url>
     <loc>https://shivamatwork16.github.io/post/</loc>
-    <lastmod>2025-03-24T19:15:42+05:30</lastmod>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/query-execution/</loc>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/</loc>
-    <lastmod>2025-03-24T19:15:42+05:30</lastmod>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/</loc>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/unit-testing/</loc>
+    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/connection-pooling/</loc>
+    <lastmod>2025-03-25T18:18:30+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/post/jc/march/march_25_2025/</loc>
+    <lastmod>2025-03-25T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/csv/</loc>
     <lastmod>2025-03-24T18:18:30+05:30</lastmod>
@@ -17,22 +56,10 @@
     <loc>https://shivamatwork16.github.io/tags/data-import/</loc>
     <lastmod>2025-03-24T18:18:30+05:30</lastmod>
   </url><url>
-    <loc>https://shivamatwork16.github.io/tags/dsr/</loc>
-    <lastmod>2025-03-24T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/e-learning/</loc>
-    <lastmod>2025-03-24T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/jc/</loc>
-    <lastmod>2025-03-24T18:18:30+05:30</lastmod>
-  </url><url>
     <loc>https://shivamatwork16.github.io/post/jc/march/march_24_2025/</loc>
     <lastmod>2025-03-24T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/review-survey-api/</loc>
-    <lastmod>2025-03-24T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/</loc>
     <lastmod>2025-03-24T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/unique-constraints/</loc>
@@ -45,9 +72,6 @@
     <lastmod>2025-03-21T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/post/jc/march/march_21_2025/</loc>
-    <lastmod>2025-03-21T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/mysql/</loc>
     <lastmod>2025-03-21T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/sql-parser/</loc>
@@ -82,9 +106,6 @@
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/validation/</loc>
     <lastmod>2025-03-19T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/api/</loc>
-    <lastmod>2025-03-18T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/dynamic-data/</loc>
     <lastmod>2025-03-18T18:18:30+05:30</lastmod>
