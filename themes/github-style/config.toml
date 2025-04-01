@@ -7,26 +7,26 @@ pygmentsUseClasses = true
 tags = ["progress", "diary"]
 
 [params]
-  author = "Shivam Shukla"
-  description = "Full stack developer with a lot of focus on speed"
-  github = "shivamatwork16"
+author = "Shivam Shukla"
+description = "Full stack developer with a lot of focus on speed"
+github = "shivamatwork16"
 #   facebook = "MeiK2333"
 #   twitter = "MeiK2333"
-  linkedin = "https://www.linkedin.com/in/shivam-shukla-910537228/"
+linkedin = "shivam-shukla-910537228"
 #   instagram = "MeiK2333"
 #   tumblr = "MeiK2333"
-  email = "shivamatwork16@gmail.com"
-  url = "https://shivamatwork16.github.io/"
-  keywords = "blog, diary"
+email = "shivamatwork16@gmail.com"
+url = "https://shivamatwork16.github.io/"
+keywords = "blog, diary"
 #   rss = true
-  lastmod = true
-  favicon = "https://static.20032003.xyz/shivam.webp"
-  avatar = "https://static.20032003.xyz/shivam.webp"
-  headerIcon = "/images/github-mark-white.png"
-  location = "India"
-  userStatusEmoji = "😀"
+lastmod = true
+favicon = "https://static.20032003.xyz/shivam.webp"
+avatar = "https://static.20032003.xyz/shivam.webp"
+headerIcon = "/images/github-mark-white.png"
+location = "India"
+userStatusEmoji = "😀"
 #   enableGitalk = false
-  enableSearch = true
+enableSearch = true
 
 #   [params.gitalk]
 #     clientID = "Your client ID" # Your client ID
@@ -50,9 +50,8 @@ tags = ["progress", "diary"]
 #     icon = "https://meik2333.com/images/avatar.png"
 
 [frontmatter]
-  lastmod = ["lastmod", ":fileModTime", ":default"]
+lastmod = ["lastmod", ":fileModTime", ":default"]
 
 # [services]
 #   [services.googleAnalytics]
 #     ID = "UA-123456-789"
-
