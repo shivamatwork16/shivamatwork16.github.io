@@ -2,34 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shivamatwork16.github.io/post/</loc>
+    <lastmod>2025-04-04T19:08:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/</loc>
+    <lastmod>2025-04-04T19:08:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/post/jc/april/april_03_2025/</loc>
+    <lastmod>2025-04-03T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/dashboard/</loc>
+    <lastmod>2025-04-03T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/dsr/</loc>
+    <lastmod>2025-04-03T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/e-learning/</loc>
+    <lastmod>2025-04-03T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/email/</loc>
+    <lastmod>2025-04-03T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/jc/</loc>
+    <lastmod>2025-04-03T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/nps/</loc>
+    <lastmod>2025-04-03T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/permissions/</loc>
+    <lastmod>2025-04-03T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/scheduling/</loc>
+    <lastmod>2025-04-03T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/survey-sharing/</loc>
+    <lastmod>2025-04-03T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/survey-stats/</loc>
+    <lastmod>2025-04-03T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/</loc>
+    <lastmod>2025-04-03T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/api/</loc>
+    <lastmod>2025-04-02T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/post/jc/april/april_02_2025/</loc>
+    <lastmod>2025-04-02T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/query-execution/</loc>
+    <lastmod>2025-04-02T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/question-solver/</loc>
+    <lastmod>2025-04-02T19:05:00+05:30</lastmod>
+  </url><url>
+    <loc>https://shivamatwork16.github.io/tags/sql/</loc>
+    <lastmod>2025-04-02T19:05:00+05:30</lastmod>
+  </url><url>
     <loc>https://shivamatwork16.github.io/post/jc/april/april_01_2025/</loc>
     <lastmod>2025-04-01T18:18:30+05:30</lastmod>
   </url><url>
-    <loc>https://shivamatwork16.github.io/tags/dsr/</loc>
-    <lastmod>2025-04-01T18:18:30+05:30</lastmod>
-  </url><url>
     <loc>https://shivamatwork16.github.io/tags/file-execution/</loc>
-    <lastmod>2025-04-01T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/jc/</loc>
     <lastmod>2025-04-01T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/multi-query/</loc>
     <lastmod>2025-04-01T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/performance/</loc>
-    <lastmod>2025-04-01T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/post/</loc>
-    <lastmod>2025-04-01T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/</loc>
-    <lastmod>2025-04-01T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/sql/</loc>
-    <lastmod>2025-04-01T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/</loc>
     <lastmod>2025-04-01T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/transactions/</loc>
@@ -47,17 +86,11 @@
     <loc>https://shivamatwork16.github.io/post/jc/march/march_31_2025/</loc>
     <lastmod>2025-03-31T18:18:30+05:30</lastmod>
   </url><url>
-    <loc>https://shivamatwork16.github.io/tags/permissions/</loc>
-    <lastmod>2025-03-31T18:18:30+05:30</lastmod>
-  </url><url>
     <loc>https://shivamatwork16.github.io/tags/sharefiles/</loc>
     <lastmod>2025-03-31T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/testing/</loc>
     <lastmod>2025-03-31T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/api/</loc>
-    <lastmod>2025-03-28T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/course-update/</loc>
     <lastmod>2025-03-28T18:18:30+05:30</lastmod>
@@ -80,9 +113,6 @@
     <loc>https://shivamatwork16.github.io/post/jc/march/march_27_2025/</loc>
     <lastmod>2025-03-27T18:18:30+05:30</lastmod>
   </url><url>
-    <loc>https://shivamatwork16.github.io/tags/e-learning/</loc>
-    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
-  </url><url>
     <loc>https://shivamatwork16.github.io/tags/error-handling/</loc>
     <lastmod>2025-03-26T18:18:30+05:30</lastmod>
   </url><url>
@@ -92,9 +122,6 @@
     <loc>https://shivamatwork16.github.io/tags/mysql/</loc>
     <lastmod>2025-03-26T18:18:30+05:30</lastmod>
   </url><url>
-    <loc>https://shivamatwork16.github.io/tags/query-execution/</loc>
-    <lastmod>2025-03-26T18:18:30+05:30</lastmod>
-  </url><url>
     <loc>https://shivamatwork16.github.io/tags/connection-pooling/</loc>
     <lastmod>2025-03-25T18:18:30+05:30</lastmod>
   </url><url>
@@ -102,9 +129,6 @@
     <lastmod>2025-03-25T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/csv/</loc>
-    <lastmod>2025-03-24T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/dashboard/</loc>
     <lastmod>2025-03-24T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/data-import/</loc>
@@ -188,9 +212,6 @@
     <loc>https://shivamatwork16.github.io/tags/documentation/</loc>
     <lastmod>2025-03-12T18:18:30+05:30</lastmod>
   </url><url>
-    <loc>https://shivamatwork16.github.io/tags/email/</loc>
-    <lastmod>2025-03-12T18:18:30+05:30</lastmod>
-  </url><url>
     <loc>https://shivamatwork16.github.io/tags/frontend/</loc>
     <lastmod>2025-03-12T18:18:30+05:30</lastmod>
   </url><url>
@@ -198,9 +219,6 @@
     <lastmod>2025-03-12T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/tags/mongodb/</loc>
-    <lastmod>2025-03-12T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/tags/scheduling/</loc>
     <lastmod>2025-03-12T18:18:30+05:30</lastmod>
   </url><url>
     <loc>https://shivamatwork16.github.io/post/jc/utils/csv_email_sender/</loc>
@@ -352,12 +370,6 @@
   </url><url>
     <loc>https://shivamatwork16.github.io/post/jc/feb/feb_18_2025/</loc>
     <lastmod>2025-02-18T18:18:30+05:30</lastmod>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/post/jc/april/april_02_2025/</loc>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/post/jc/april/april_03_2025/</loc>
-  </url><url>
-    <loc>https://shivamatwork16.github.io/post/jc/april/april_04_2025/</loc>
   </url><url>
     <loc>https://shivamatwork16.github.io/post/jc/april/april_07_2025/</loc>
   </url><url>
